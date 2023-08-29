@@ -1,6 +1,10 @@
-# Alpaca image generator (DevProjects)
-This is an open source project from [DevProjects](https://www.codementor.io/projects). The requirements can be found [here](https://www.codementor.io/projects/web/alpaca-image-generator-website-ce2oc0eus8). Feedback is welcome! 
+# Alpaca Image Generator
+This project is based on a challenge from [DevProjects](https://www.codementor.io/projects). More details can be found [here](https://www.codementor.io/projects/web/alpaca-image-generator-website-ce2oc0eus8).
 
-Built with HTML, CSS and JavaScript.
+**Built with HTML, CSS and JavaScript.**
+
+### :point_right: [**Live Preview**](https://make-alpaca.netlify.app/) 
+
+Feedback is welcome!
 
 ![](./preview.png)
